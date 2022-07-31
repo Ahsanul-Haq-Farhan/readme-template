@@ -132,4 +132,4 @@ https://www.youtube.com/
 
 ### image sytax
 
-![this is my pic]
+![this is my pic](./img.jpeg)
